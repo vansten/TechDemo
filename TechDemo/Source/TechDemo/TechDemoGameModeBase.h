@@ -12,8 +12,4 @@ UCLASS()
 class TECHDEMO_API ATechDemoGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
-	
 };
